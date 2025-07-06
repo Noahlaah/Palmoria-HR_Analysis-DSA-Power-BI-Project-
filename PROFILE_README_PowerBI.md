@@ -25,17 +25,15 @@ This project focuses on analyzing gender equity, salary distribution, and bonus 
 ## 🧰 Tools & Skills
 
 - ✅ Power BI (Dashboards, KPIs, Visual Reports)
-- ✅ SQL Server Management Studio (SSMS)
 - ✅ Power Query Editor (Data Cleaning)
 - ✅ DAX (Calculated Columns, Measures)
-- ✅ Microsoft Excel (Bonus Rule Logic, CSVs)
 - ✅ Storytelling with Data
 
 ---
 
 ## 📫 Contact Me
 
-📧 daniel4noah@gmail.com  
+📧 danielnoah998@gmail.com  
 🌐 GitHub: [Noahlaah](https://github.com/Noahlaah)  
 🎓 DSA Incubator | 2025 Cohort
 
